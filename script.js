@@ -66,3 +66,6 @@ function sumarInputValues(event) {
 // console.log(img);
 // pid.innerHTML = '';
 // pid.append(img);
+
+//test push
+//test
